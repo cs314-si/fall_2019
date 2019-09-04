@@ -4,6 +4,7 @@ Hey everyone! This it the github for fall 2019 SI. I will put problems and solut
 some other information if needed.
 
 Name: Joe Vilches
+
 Email: joevilches@gmail.com
 
 SI Times: M 4-5pm in GDC 2.410, W 4-5pm in GDC 4.302
