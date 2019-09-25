@@ -1,0 +1,53 @@
+Milk 1
+Fruit 3
+Milk 3
+
+Milk 1
+Juice 3
+
+Milk 1
+Egg 3
+
+Milk 1
+Juice 3
+
+Milk 1
+Milk 3
+
+Compiler Error, cannot resolve method
+
+Compiler Error, cannot resolve method
+
+Juice 2
+Fruit 3
+Milk 3
+
+Compiler Error, cannot resolve method
+
+Fruit 3
+Milk 3
+
+Juice 3
+
+Egg 3
+
+Runtime Error, ClassCastException
+
+Milk 1
+Fruit 3
+Milk 3
+
+Compiler Error, cannot resolve method
+
+Milk 1
+Juice 3
+
+Runtime Error, ClassCastException
+
+Egg 2
+
+Juice 3
+
+Fruit 3
+Milk 3
+
